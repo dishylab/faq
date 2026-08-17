@@ -74,11 +74,27 @@
 
 #### بررسی خبرهای 2️⃣ و 3️⃣ در پست های بعدی میاد
 
+---
+
 برای تهیه، استفاده و نگهداری ایمن و حرفه ای از استارلینک با ما در تماس باشید
 
-| |‌ |
-|:-------|-------:|
-| @DishyLabChannel | کانال فنی مهندسی |
-| @DishyLabGroup | گروه فنی تجاری |
-| @DishyLabShop | فروشگاه |
-| @DishyLabFaqBot | بات سوال متداول |
+
+
+<table bordered striped>
+    <tr>
+        <td align="left">@DishyLabChannel</td>
+        <td align="left">کانال فنی مهندسی</td>
+    </tr>
+    <tr>
+        <td align="left">@DishyLabGroup</td>
+        <td align="left">گروه فنی مهندسی تجاری</td>
+    </tr>
+    <tr>
+        <td align="left">@DishyLabShop</td>
+        <td align="left">فروشگاه</td>
+    </tr>
+    <tr>
+        <td align="left">@DishyLabFaqBot</td>
+        <td align="left">بات سوال متداول</td>
+    </tr>
+</table>
