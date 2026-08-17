@@ -13,19 +13,40 @@
 #### خبر اول تغییرات عمده در دیش نسخه ۵
 تا چند هفته گذشته سخت افزار نسخه ۵ به REV5_PEZ_PROD2 رسیده که
 
-||‌|
-|:-------|-------:|
-| REV5 | نسخه ۵ |
-| PEZ | چیپست پردازشی |
-| PROD2 | نسخه دوم پروداکشن |
+
+<table bordered striped>
+    <tr>
+        <td align="left">REV5</td>
+        <td align="left">نسخه ۵</td>
+    </tr>
+    <tr>
+        <td align="left">PEZ</td>
+        <td align="left">چیپست پردازشی</td>
+    </tr>
+    <tr>
+        <td align="left">PROD2</td>
+        <td align="left">نسخه دوم پروداکشن</td>
+    </tr>
+</table>
+
 
 در همین مدت کوتاه سخت افزار نسخه ۵ دوبار آپدیت شده
 
-| |‌ |
-|:-------|-------:|
-| REV5_PEZ_PROTO1 | نسخه پروتوتایپ اولیه |
-| REV5_PEZ_PROD1 | نسخه پروداکشن اول |
-| REV5_PEZ_PROD2 | نسخه پروداکشن دوم |
+<table bordered striped>
+    <tr>
+        <td align="left">REV5_PEZ_PROTO1</td>
+        <td align="left">نسخه پروتوتایپ اولیه</td>
+    </tr>
+    <tr>
+        <td align="left">REV5_PEZ_PROD1</td>
+        <td align="left">نسخه پروداکشن اول</td>
+    </tr>
+    <tr>
+        <td align="left">REV5_PEZ_PROD2</td>
+        <td align="left">نسخه پروداکشن دوم</td>
+    </tr>
+</table>
+
 
 
 در کنار به روزرسانی نسخه و پردازنده، قسمت های پر مصرف انرژی مثل CPU و RAM به قسمت مرکزی PCB منتقل 
